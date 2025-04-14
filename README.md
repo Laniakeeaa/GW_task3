@@ -1,5 +1,5 @@
-# GW_task5
-Jupyter notebook for task5
+# GW_task3
+Jupyter notebook for task3
 
 - run on Linux, since some package cannot install on Windows _or it's hard to_
 - t0 was changed based on GPS time of GW190521_074359
